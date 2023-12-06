@@ -2,17 +2,17 @@
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100"/>
   <h1 align="center">Hi there, I'm Alex<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <div align="center" id="badges">
-    <a href="https://leetcode.com/zenorachi/">
+    <a href="https://leetcode.com/alexgrabko1992">
       <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
     </a>
-    <a href="https://t.me/zenorachii">
+    <a href="https://t.me/alexgrabko1992">
       <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="mailto:msonkin33@gmail.com">
+    <a href="mailto:alexgrabko1992@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
 <!--       <div>
-      <img src="https://komarev.com/ghpvc/?username=zenorachi&style=flat-square&color=blue" alt=""/>
+      <img src="https://komarev.com/ghpvc/?username=alexgrabko1992&style=flat-square&color=blue" alt=""/>
     </div> -->
   </div>
 </div>
@@ -23,7 +23,7 @@
 I am a Golang Developer and School 21 student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I'm interested in backend programming and algorithms.
 
-- :dart: I’m currently learning Golang / PostgreSQL / DevOps.
+- :dart: I’m currently learning Typescript / Golang / PostgreSQL / DevOps.
 
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/alexgrabko)[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexgrabko1992@gmail.com)
 
@@ -31,6 +31,7 @@ I am a Golang Developer and School 21 student <img src="https://media.giphy.com/
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="40" height="40"/>&nbsp;
