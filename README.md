@@ -21,7 +21,7 @@
 
 ### :man_technologist: About Me :
 I am a Golang Developer and School 21 student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
-- :telescope: I'm interested in backend programming and algorithms.
+- :telescope: I'm interested in Fullstack programming and algorithms.
 
 - :dart: I’m currently learning Typescript / Golang / PostgreSQL / DevOps.
 
