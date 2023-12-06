@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100"/>
-  <h1 align="center">Hi there, I'm Maksim<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+  <h1 align="center">Hi there, I'm Alex<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
   <div align="center" id="badges">
     <a href="https://leetcode.com/zenorachi/">
       <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode Badge"/>
